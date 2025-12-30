@@ -5,7 +5,7 @@ This project emphasizes user experience, semantic HTML, and mobile-first styling
 
 ---
 
-![Fran’s Flowers website redesign](images/frans-flowers-home.png)
+![Fran’s Flowers website redesign](img/frans-flowers-home.png)
 
 ---
 
