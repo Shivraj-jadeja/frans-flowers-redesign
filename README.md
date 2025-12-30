@@ -5,6 +5,10 @@ This project emphasizes user experience, semantic HTML, and mobile-first styling
 
 ---
 
+![Fran’s Flowers website redesign](images/frans-flowers-home.png)
+
+---
+
 ## ✨ Overview
 
 This redesign reimagines the online presence of a local flower shop with a warm, inviting aesthetic and clear navigation.
